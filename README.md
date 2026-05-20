@@ -156,7 +156,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Janakiraman** - [GitHub](https://github.com/razak571)
+**Janakiraman** - [GitHub](https://github.com/Johnny1109)
 
 ---
 
