@@ -45,7 +45,7 @@ A functional task management application built using the MERN (MongoDB, Express,
 
 ## 🚀 Live Demo
 
-Check out the live deployed version [here](https://taskmanger-4sy5.onrender.com).
+Check out the live deployed version [here](https://task-manager-mern-frontend.vercel.app).
 
 ## 🏁 Getting Started Locally
 
