@@ -122,11 +122,7 @@ function Signup() {
               <Link to="/login" className="text-blue-600">
                 Login
               </Link>
-            </p>
-            {/* <button className="bg-blue-600 mx-auto block text-white rounded-md p-2 m-4 justify-center">
-              Signup with Google
-            </button> */}
-            <OAuth title={"Signup with Google"} />
+            </p>          
           </form>
         </div>
       </div>
